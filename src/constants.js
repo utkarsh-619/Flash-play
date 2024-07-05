@@ -1,0 +1,1 @@
+export const dbName = "flash_video";
